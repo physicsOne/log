@@ -9,9 +9,9 @@ boys dont cry
 an enchanting old ruin
 
 may : 
-	1) steins gate 0;
+	1) joker game 
 	2) angels beat
-	3) //the sacred blacksmith
+	3) tokyo ghoul a
 	4) aio sekai chuushin de
 	5) k-project
 	6) seiken tsukai no world break
@@ -22,3 +22,8 @@ may :
 	11) akatsuki no yona
 	12) kenja no mago
 	13) ghost in the shell
+	14) assasination classroom 2s
+	15) SAO alicization
+	16) kingslave final fantasy: done
+	17) couger club
+	18) couger town
