@@ -5,3 +5,4 @@
 5) one jukebox = one mv
 6) one turorial/exercisefile/git = inspection
 7) one weak = premium category
+8) boris40,60

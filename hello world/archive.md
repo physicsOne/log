@@ -29,3 +29,4 @@
 29) attak on titan 2
 30) attak on titan 3
 31) attak on titan 3 part 2
+32) fullmetal alchemist
