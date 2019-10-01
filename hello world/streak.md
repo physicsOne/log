@@ -1,1 +1,1 @@
-day 1 : 19th september 2019 : missed
+day 1 : 
