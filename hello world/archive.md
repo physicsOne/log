@@ -1,3 +1,4 @@
+anime : 
 1) SAO
 2) sao 2 gungale
 3) sao ordinal scale
@@ -30,3 +31,20 @@
 30) attak on titan 3
 31) attak on titan 3 part 2
 32) fullmetal alchemist
+33) fullmetal alchemist brotherhood
+34) ergo proxy
+35) another
+36) classroom of elite
+37) banana fish
+38) seven seeds
+39) my hero academia season 1
+40) my hero academia season 2
+41) my hero academia season 3
+42) 
+
+books : 
+1) dracula
+2) twenty thousand leagues under the sea
+3) night
+4) 13 reasons why
+5) the boy who dared

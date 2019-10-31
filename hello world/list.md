@@ -40,18 +40,17 @@ anime :
 	23) vinland saga
 	24) banana fish
 	25) violet evergarden
-	26) fullmetal alchemist brotherhood
 	27) yuri on rice
 	28) black lagoon
 	29) lord el nelloi ii sei no jikembo 
 	30) hunter x hunter
+	31) the world god only knows
+	32) demon slayer
 	
 prioratize
 	1) banana fish
 	2) violet evergarden
-	3) fullmetal/ 
 pending :
-	1) banana fish
 	2) jokergame
 	3) violet evergarden
 	5) acca 13 territory inspection
