@@ -40,7 +40,8 @@ anime :
 39) my hero academia season 1
 40) my hero academia season 2
 41) my hero academia season 3
-42) 
+42) demons slayer
+43) hunter X hunter
 
 books : 
 1) dracula

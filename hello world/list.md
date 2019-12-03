@@ -13,6 +13,7 @@ the killer inside me
 the house of whipcord
 the house that screamed
 journey of mary gryant
+long night short morning
 
 anime : 
 	1) joker game 
@@ -38,17 +39,12 @@ anime :
 	21) k no hate dekoi wo utao shoujo
 	22) shomin sample
 	23) vinland saga
-	24) banana fish
 	25) violet evergarden
 	27) yuri on rice
 	28) black lagoon
-	29) lord el nelloi ii sei no jikembo 
-	30) hunter x hunter
 	31) the world god only knows
-	32) demon slayer
 	
 prioratize
-	1) banana fish
 	2) violet evergarden
 pending :
 	2) jokergame
