@@ -1,1 +1,0 @@
-day 1 : 2nd  december 2019 : 
