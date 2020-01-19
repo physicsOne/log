@@ -18,7 +18,6 @@ long night short morning
 anime : 
 	1) joker game 
 	2) angels beat
-	3) tokyo ghoul a 
 	4) aio sekai chuushin de
 	5) k-project
 	6) seiken tsukai no world break
@@ -43,9 +42,24 @@ anime :
 	27) yuri on rice
 	28) black lagoon
 	31) the world god only knows
+	32) Hua Jiang Hu Zhi Bu Liang Ren 
+	33) the witcher
+	34) babylon
+	35) vinland 
+	36) my hero academia
+	
+	category : daydream;
+	37) TEIZOKUREI DAYDREAM
+	38) DISCIPLINE-THE HENTAI ACADEMY 
+	39) WITCH CRAFT WORKS
+	40)  AKU NO HANA
+	41) ZERO NO TSUKAIMA (THE FAMILIAR OF ZERO)
+	42) SHIMONETA TO IU GAINEN GA SONNZAI SHINAI TAIKUTSU NA SEKAI (SHIMONETA: A BORING WORLD WHERE THE CONCEPT OF DIRTY JOKES DOESN’T EXIST)
+	43) BAKEMONOGATARI
+	44) PRISON SCHOOL
 	
 prioratize
-	2) violet evergarden
+	2) fate
 pending :
 	2) jokergame
 	3) violet evergarden

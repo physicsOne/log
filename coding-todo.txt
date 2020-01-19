@@ -1,0 +1,5 @@
+1) es6  completed : false;
+2) typescript completed : false;
+3) angular 2 completed : false;
+4) angular 4 completed : false;
+5) next step : react, php, data-structure, algorithm, 

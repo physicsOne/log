@@ -42,6 +42,13 @@ anime :
 41) my hero academia season 3
 42) demons slayer
 43) hunter X hunter
+44) fte stay night
+45) fate zero
+46) fate zero season 2
+47) tokyou ghoul season 3
+48) tokyou ghoul season 4
+49) death note
+
 
 books : 
 1) dracula
@@ -49,3 +56,5 @@ books :
 3) night
 4) 13 reasons why
 5) the boy who dared
+6) city of bones
+7)city of ashes
